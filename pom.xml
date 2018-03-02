@@ -10,6 +10,14 @@
     <name>StreamUtils</name>
     <description>A Helper class in order to handle exceptions from streams</description>
 
+    <dependencies>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>4.12</version>
+            <scope>test</scope>
+        </dependency>
+    </dependencies>
     <build>
         <plugins>
             <plugin>
